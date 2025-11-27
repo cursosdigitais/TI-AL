@@ -88,7 +88,7 @@ const SalesPage: React.FC = () => {
 
         <div className="font-opensans text-base md:text-lg leading-[1.35] text-left space-y-4">
           <p>Wer bin ich und warum sollte man mir zuhören?</p>
-          <p>Mein Name ist Lukas Müller. Ich bin Psychologe und arbeite im Bereich Beziehungen.</p>
+          <p>Mein Name ist Christian Müller. Ich bin Psychologe und arbeite im Bereich Beziehungen.</p>
           <p>Seit 2005 habe ich für Zehntausende von Menschen unterrichtet, trainiert und Vorträge gehalten…</p>
           <p>… sowohl für Männer als auch für Frauen…</p>
           <p>… aus der ganzen Welt.</p>
