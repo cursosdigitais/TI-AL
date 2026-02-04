@@ -3,7 +3,7 @@ import Button from './Button';
 
 const SalesPage: React.FC = () => {
   const checkoutUrl = "#preco";
-  const hotmartUrl = "https://pay.hotmart.com/A104270611T?checkoutMode=10";
+  const hotmartUrl = "https://pay.hotmart.com/A103596417H?checkoutMode=10";
 
   return (
     <div className="flex flex-col gap-6 text-[#303030]">
